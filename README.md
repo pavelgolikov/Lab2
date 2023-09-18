@@ -110,7 +110,7 @@ Proceed to the second lab activity!
 ### TASK 1 TODO: Hints
 - Hint 1: you only have to change one line of code
 - Hint 2: unlike Python, an int has a maximum value that it can store (see Integer.MAX_VALUE).
-also see https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
+also see https://docs.oracle.com/javase/tutorial/java/nutsandboglts/datatypes.html
 
 ### TASK 2 (and possibly other places): Note about Unsaved local changes
 
