@@ -8,6 +8,7 @@ public class DataTypes {
         for (int x : numbers) {
             s += x;
         }
+
         return s;
     }
 }
